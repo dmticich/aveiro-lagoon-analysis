@@ -21,10 +21,12 @@ imagery processed through Google Earth Engine.
 
 ## Repository Structure
 ```
-├── Aveiro_Analytics.ipynb   # Full analysis notebook
-├── report/                  # Written portfolio report (PDF)
-├── figures/                 # Key output maps and charts
-└── data/                    # Exported results (CSV)
+├── Aveiro_Lagoon_Analysis.ipynb              # Full analysis notebook
+├── README.md                                 # Project documentation
+├── Ria_De_Aveiro_Paper.pdf                   # Written portfolio report
+├── aveiro_lagune_plot.png                    # Water surface time series chart
+├── change_map_2017_2024.png                  # Spatial change detection map
+└── aveiro_water_surface_area_2017_2024.csv   # Annual water surface data
 ```
 
 ---
