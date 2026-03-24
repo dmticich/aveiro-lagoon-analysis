@@ -2,7 +2,6 @@
 ## Ria de Aveiro Lagoon, Portugal · 2017–2024
 
 **Portfolio Project** · Master's Application Environmental Engineering  
-Universidade de Aveiro / Universidade do Porto
 
 ---
 
